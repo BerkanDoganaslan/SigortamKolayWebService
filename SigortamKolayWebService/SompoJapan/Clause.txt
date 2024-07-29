@@ -5,4 +5,6 @@ ile taşınan emtia hariç) ödenen hasar tutarı kadar eksilmeyecek olup, herha
 ettirilmeksizin poliçe teminatı aynı bedel üzerinden devam edecektir. Ancak Kısmi hasarlardan dolayı
 Kara Taşıtları Kasko Sigortası Genel Şartlarının B.4-4.2 maddesine istinaden tarafların fesih hakkını
 kullanması durumunda yukarıdaki paragrafta belirtilen hükmün hilafına iptal işlemi ödenen tazminat
-tutarı kadar eksilen sigorta bedeline isabet eden prim üzerinden gün esasına göre yapılacaktır.
+tutarı kadar eksilen sigorta bedeline isabet eden prim üzerinden gün esasına göre yapılacaktır.
+
+--Test 2024 yılı yeni makinede denendi!
